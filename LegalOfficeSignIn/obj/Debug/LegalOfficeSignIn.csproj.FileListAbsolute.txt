@@ -1,0 +1,10 @@
+C:\Users\gmanm\source\repos\LegalOfficeSignIn\LegalOfficeSignIn\bin\Debug\LegalOfficeSignIn.exe.config
+C:\Users\gmanm\source\repos\LegalOfficeSignIn\LegalOfficeSignIn\bin\Debug\LegalOfficeSignIn.exe
+C:\Users\gmanm\source\repos\LegalOfficeSignIn\LegalOfficeSignIn\bin\Debug\LegalOfficeSignIn.pdb
+C:\Users\gmanm\source\repos\LegalOfficeSignIn\LegalOfficeSignIn\obj\Debug\LegalOfficeSignIn.csprojAssemblyReference.cache
+C:\Users\gmanm\source\repos\LegalOfficeSignIn\LegalOfficeSignIn\obj\Debug\LegalOfficeSignIn.Properties.Resources.resources
+C:\Users\gmanm\source\repos\LegalOfficeSignIn\LegalOfficeSignIn\obj\Debug\LegalOfficeSignIn.csproj.GenerateResource.cache
+C:\Users\gmanm\source\repos\LegalOfficeSignIn\LegalOfficeSignIn\obj\Debug\LegalOfficeSignIn.csproj.CoreCompileInputs.cache
+C:\Users\gmanm\source\repos\LegalOfficeSignIn\LegalOfficeSignIn\obj\Debug\LegalOfficeSignIn.exe
+C:\Users\gmanm\source\repos\LegalOfficeSignIn\LegalOfficeSignIn\obj\Debug\LegalOfficeSignIn.pdb
+C:\Users\gmanm\source\repos\LegalOfficeSignIn\LegalOfficeSignIn\obj\Debug\LegalOfficeSignIn.frmApptScheduler.resources
