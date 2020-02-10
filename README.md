@@ -1,4 +1,4 @@
-# Sign-In-Program
+# Sign-In Program
 Various quality of life applets I've made for units around the base.  The Security Office Sign-In program was made so students visiting the security office here can sign up for various out-processing appointments.  Made it easier for the security office personnel to track students and maintain accountability.
 
 # Appointment Scheduler
