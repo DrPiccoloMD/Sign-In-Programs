@@ -1,0 +1,11 @@
+C:\Users\gmanm\source\repos\Security_Office_Sign_In\Security_Office_Sign_In\bin\Debug\Security_Office_Sign_In.exe.config
+C:\Users\gmanm\source\repos\Security_Office_Sign_In\Security_Office_Sign_In\bin\Debug\Security_Office_Sign_In.exe
+C:\Users\gmanm\source\repos\Security_Office_Sign_In\Security_Office_Sign_In\bin\Debug\Security_Office_Sign_In.pdb
+C:\Users\gmanm\source\repos\Security_Office_Sign_In\Security_Office_Sign_In\obj\Debug\Security_Office_Sign_In.csprojAssemblyReference.cache
+C:\Users\gmanm\source\repos\Security_Office_Sign_In\Security_Office_Sign_In\obj\Debug\Security_Office_Sign_In.Form1.resources
+C:\Users\gmanm\source\repos\Security_Office_Sign_In\Security_Office_Sign_In\obj\Debug\Security_Office_Sign_In.Properties.Resources.resources
+C:\Users\gmanm\source\repos\Security_Office_Sign_In\Security_Office_Sign_In\obj\Debug\Security_Office_Sign_In.csproj.GenerateResource.cache
+C:\Users\gmanm\source\repos\Security_Office_Sign_In\Security_Office_Sign_In\obj\Debug\Security_Office_Sign_In.csproj.CoreCompileInputs.cache
+C:\Users\gmanm\source\repos\Security_Office_Sign_In\Security_Office_Sign_In\obj\Debug\Security_Office_Sign_In.exe
+C:\Users\gmanm\source\repos\Security_Office_Sign_In\Security_Office_Sign_In\obj\Debug\Security_Office_Sign_In.pdb
+C:\Users\gmanm\source\repos\Security_Office_Sign_In\Security_Office_Sign_In\bin\Debug\SecurityOffice.mdb
